@@ -1,0 +1,7 @@
+{
+  "initBlock" : {
+    "name" : "Global",
+    "type" : "GLOBAL",
+    "disable" : false
+  }
+}

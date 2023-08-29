@@ -1,0 +1,22 @@
+{
+  "physicalTable" : {
+    "name" : "pt123wqe",
+    "sourceType" : "TABLE",
+    "physicalColumns" : [ {
+      "name" : "New Column_1123",
+      "dataType" : "UNKNOWN",
+      "length" : 0,
+      "nullable" : false
+    }, {
+      "name" : "New Column_2",
+      "dataType" : "UNKNOWN",
+      "length" : 0,
+      "nullable" : true
+    } ],
+    "additionalKeys" : [ [ "New Column_1123" ] ],
+    "caching" : {
+      "enable" : false,
+      "expiryTime" : 0
+    }
+  }
+}
